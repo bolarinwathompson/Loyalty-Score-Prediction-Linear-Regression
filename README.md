@@ -1,7 +1,7 @@
-# Linear Regression for Loyalty Scores Prediction - ABC Grocery
+# ABC Grocery Loyalty Scores Prediction -Linear Regression
 
 ## Project Overview:
-The **ABC Grocery Linear Regression for Loyalty Scores Prediction** project uses **Linear Regression** to predict customer loyalty scores based on transaction data and customer details. This project helps ABC Grocery understand customer behavior patterns and create data-driven strategies for customer retention, targeting, and marketing optimization. The model analyzes transaction history, spending patterns, and customer demographics to predict how loyal a customer is to the store.
+The **ABC Grocery Loyalty Scores Prediction** project uses **Linear Regression** to predict customer loyalty scores based on transaction data and customer details. This project helps ABC Grocery understand customer behavior patterns and create data-driven strategies for customer retention, targeting, and marketing optimization. The model analyzes transaction history, spending patterns, and customer demographics to predict how loyal a customer is to the store.
 
 ## Objective:
 The primary goal of this project is to build a **Linear Regression model** that predicts customer loyalty scores for ABC Grocery based on historical transaction data and customer demographics. By leveraging the model, ABC Grocery can identify loyal customers, understand factors affecting loyalty, and tailor marketing efforts to improve retention.
